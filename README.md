@@ -1,15 +1,17 @@
-# Title
+# Breaking Down and Reconfiguring Code Lab
 
 ## Objectives
 
--SWBAT 1
--SWBAT 2
+- Interpret existing functions to derive purpose
+- Modify expressions and statements while maintaining functionality
 
-#### Introduction
+## Introduction
 
-#### SWBAT 1
+- Practice breaking down methods into separate 'single-action' focused functions
 
-#### SWBAT 2
+### Interpret existing functions to derive purpose
+
+### Modify expressions and statements while maintaining functionality
 
 ## Conclusion
 
